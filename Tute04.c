@@ -1,5 +1,3 @@
-
-
 #include <stdio.h>
 
 int minimum(int x, int y)
